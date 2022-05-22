@@ -1,0 +1,2 @@
+# Feature-Selection-Using-Genetic-Algorithm
+Since, classifiers performance depends on the presented training data which comprises of a set of attributes and class labels. Due to the lack of prior knowledge in many real-life classification problems a large number of attributes are extracted for the training of the classifier. Few of which might not be relevant to the classification problem. Therefore, there is a need to select optimal set of attributes which contribute the most for the prediction. The optimal set of attributes will be selected using genetic algorithm. 
